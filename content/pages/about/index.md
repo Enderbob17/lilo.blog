@@ -4,7 +4,7 @@ draft = false
 image = "schulphoto-2022_low-quality.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](schulphoto-2022_low-quality.jpg)
 
 ## Ernesto Mellado
 
