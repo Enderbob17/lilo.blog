@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "Über mich"
 draft = false
+image = "schulphoto-2022_low-quality.jpg"
 description = ""
-image = ""
 +++
 ![](/img/default-author.jpg)
 
