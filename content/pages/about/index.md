@@ -8,6 +8,6 @@ description = ""
 
 ## Ernesto Mellado
 
-ernesto.melladogarcia@gmail.com
+ernesto.melladogarcia@mygymer.com
 
 Ich bin 16 Jahre alt und besuche zurzeit das Gymnasium Kirchenfeld in Bern. Ich bin in der Klasse M25C.
