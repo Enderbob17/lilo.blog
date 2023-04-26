@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = ""
+name = "Ernesto Mellado"
+image = "/media/schulphoto-2022_low-quality.jpg"
 url = "/about/"
 +++
