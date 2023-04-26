@@ -2,12 +2,12 @@
 title = "Über mich"
 draft = false
 image = "schulphoto-2022_low-quality.jpg"
-description = "Ich bin 16 Jahre alt und besuche zurzeit das Gymnasium Kirchenfeld in Bern. Ich bin in der Klasse M25C."
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Ernesto Mellado
 
-mail@example.org
+ernesto.melladogarcia@gmail.com
 
-Here should be some info about me...
+Ich bin 16 Jahre alt und besuche zurzeit das Gymnasium Kirchenfeld in Bern. Ich bin in der Klasse M25C.
