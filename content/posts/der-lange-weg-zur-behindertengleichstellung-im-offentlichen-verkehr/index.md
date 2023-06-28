@@ -2,8 +2,8 @@
 title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-28"
 draft = true
-pinned = false
-tags = ["Deutsch"]
+pinned = true
+tags = ["Deutsch", "deutsch", "Reportage", "M25c", "BehiG", "Behindertengleichstellungsgesetz", "Zug", "BAV"]
 image = "picture1.jpg"
 +++
 # Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr
@@ -48,7 +48,9 @@ Somit ist klar – die Behindertengerechtigkeit kommt nicht nur den beeinträcht
 
 Doch genau diese Gruppen haben durch die teilweise stark verspätete Umsetzung nun das Nachsehen. Was bedeutet das für beeinträchtigte Personen, dass sich die Umsetzung des BehiG im Verzug befindet? Um darüber mehr zu erfahren, haben wir ein Gespräch mit Caroline Hess-Klein geführt. Sie ist Abteilungsleiterin Gleichstellung von Inclusion Handicap. Inclusion Handicap kümmert sich für Inklusion von Beeinträchtigten sowie für den Schutz deren Rechte ein.
 
-Laut Inclusion Handicap war das grösste Problem, dass das BAV die Umsetzung des BehiGs komplett den einzelnen Transportunternehmen überlassen hatte. Dies führte dazu, dass die meisten Transportunternehmen die Frist nicht realisierten und daher manche Bahnhöfe und Haltestellen erst nach 2030 konform sein werden, mehr als 7 Jahre nach dem Ende der Frist. Warum dies so weit kommen konnte, wurde uns so erklärt: «Die Eidgenössische Finanzkontrolle (EFK) \[…] hat untersucht, wie das BehiG umgesetzt wird und ob das BAV seine Aufgaben war nimmt. Und die EFK ist zum Schluss gekommen, dass es so nicht gehe \[…]. Und ab dann hat das BAV die Schraube zugezogen, aber bis dahin hat das BAV auch weitgehend gesagt: Das sind die Unternehmen und zugeschaut, dass eine Frist einfach nichts bewirkt.» 
+Laut Inclusion Handicap war das grösste Problem, dass das BAV die Umsetzung des BehiGs komplett den einzelnen Transportunternehmen überlassen hatte. Dies führte dazu, dass die meisten Transportunternehmen die Frist nicht realisierten und daher manche Bahnhöfe und Haltestellen erst nach 2030 konform sein werden, mehr als 7 Jahre nach dem Ende der Frist. Warum dies so weit kommen konnte, wurde uns so erklärt: 
+
+> «Die Eidgenössische Finanzkontrolle (EFK) \[…] hat untersucht, wie das BehiG umgesetzt wird und ob das BAV seine Aufgaben war nimmt. Und die EFK ist zum Schluss gekommen, dass es so nicht gehe \[…]. Und ab dann hat das BAV die Schraube zugezogen, aber bis dahin hat das BAV auch weitgehend gesagt: Das sind die Unternehmen und zugeschaut, dass eine Frist einfach nichts bewirkt.» 
 
 Der Tenor vonseiten Inclusion Handicap ist klar: Bei der Umsetzung des BehiG wurde schlichtweg geschlafen und die Folgen davon haben nun die eigentlichen Profiteure dieses Gesetzes zu tragen. Die Hilfestellungen – von welchen oben bereits die Rede war - für beeinträchtigte Personen werden wie folgt aussehen: Einerseits werden an betroffenen Orten Hilfspersonen anwesend sein, um hilfsbedürftigen Personen zu helfen. Andererseits werden auch sogenannte Mobillifte (Hublifte für Rollstühle) weiterhin eingesetzt. Diese kommen in der Schweiz bereits vielerorts zur Anwendung.
 
@@ -76,7 +78,7 @@ Deutlich ist zudem erkennbar, wie die Prioritäten landauf landab grösstenteils
 
 ![Im städtischen Nahverkehr ist die BehiG-Umsetzung weit fortgeschritten, wie hier beim RBS.](picture4.jpg)
 
-**Wie geht es nun weiter?**
+### **Wie geht es nun weiter?**
 
 Von Seiten des BAV sind für Transportunternehmen, die das BehiG nicht rechtzeitig umsetzen, keine Strafen vorgesehen. «Das Gesetz erlaubt es nicht, dass das BAV Strafen aussprechen könnte, aber die Behindertenverbände oder einzelne Personen haben ein Klage- oder ein Verbandsbeschwerderecht», sagt Herr Müller. Einzel- und Verbandsbeschwerden mögen auf den ersten Blick vielleicht harmlos klingen, allerdings gab es in der Vergangenheit bereits eine Klage von Inclusion Handicap gegen die SBB: Bei den neuen, ab 2013 gelieferten Twindexx-Zügen der SBB wurden nämlich einige Mängel festgestellt, welche beeinträchtigten Personen das Benützen dieses Zuges erschwerten. Das Entdecken dieser Mängel führte dann zu einem Prozess, welcher sich über fast 2 Jahre hinzog. Am Ende bekam Inclusion Handicap vor Gericht Recht, was einen gewaltigen Sieg für diese Organisation bedeutet.
 
