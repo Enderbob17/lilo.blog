@@ -1,7 +1,7 @@
 +++
 title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-28"
-draft = true
+draft = false
 pinned = true
 tags = ["Deutsch", "deutsch", "Reportage", "M25c", "BehiG", "Behindertengleichstellungsgesetz", "Zug", "BAV"]
 image = "picture1.jpg"
