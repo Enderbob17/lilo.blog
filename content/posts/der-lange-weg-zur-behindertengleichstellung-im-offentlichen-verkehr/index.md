@@ -27,9 +27,13 @@ Die Umbauten der Infrastruktur sind oftmals sehr tiefgreifend – in den meisten
 
 > «Die BehiG-Umbaumassnahmen sind relativ tiefgreifende Massnahmen. Es braucht neue Bahnhofzugänge, Erhöhungen von Perrons, teilweise breitere Perrons und Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in das Geschehen eines Bahnhofes eingreifen.», sagt Herr Müller.
 
+{{<box>}}
+
 **Wen haben wir interviewt?**"Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
 
 Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abteilung Gleichstellung bei Inclusion Handicap, Caroline Hess-Klein zu führen. Sie studierte Jura und hat in dieser Fakultät auch einen Doktortitel erlangt.  Inclusion Handicap setzt sich für die Sensibilisierung der Gesellschaft und die Schaffung von barrierefreien Umgebungen ein. Sie ist die Dachorganisation der Schweizer Behindertenorganisationen, oder auch «die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz», wie auf deren Website zu lesen ist. Daher setzen sie sich auch sehr stark für die Umsetzung des BehiG ein. "
+
+{{</box>}}
 
 **Interview mit Herr Müller vom BAV**"<Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
 
