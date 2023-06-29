@@ -8,6 +8,8 @@ description = ""
 
 ## Ernesto Mellado
 
+
+
 ernesto.melladogarcia@mygymer.ch
 
 Ich bin 16 Jahre alt und besuche zurzeit das Gymnasium Kirchenfeld in Bern. Ich bin in der Klasse M25C. Das Ingenieurswesen interessiert mich sehr und ich könnte mir gut vorstellen mich in dem Feld in der Zukunft weiterzubilden.
