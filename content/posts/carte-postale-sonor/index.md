@@ -1,5 +1,5 @@
 +++
-title = "Carte Postale Sonoree"
+title = "Carte Postale Sonore"
 date = "2023-04-05"
 draft = false
 pinned = false
