@@ -45,7 +45,7 @@ Die Schweiz ist bekannt für ihren herausragenden öffentlichen Verkehr. Dazu ge
 
 Somit ist klar – die Behindertengerechtigkeit kommt nicht nur den beeinträchtigten Personen zugute, auch beispielsweise Personen mit schwerem Gepäck, Schwangere oder Eltern mit Kinderwagen werden durch barrierefreies Reisen entlastet.
 
-![Bei diesem Fahrzeug ist ein Einstieg mit Rollstuhl problemlos möglich.](picture2.jpg)
+![](picture2.jpg "Bei diesem Fahrzeug ist ein Einstieg mit Rollstuhl problemlos möglich.")
 
 ### **Die Stimme von Inclusion Handicap**
 
@@ -73,13 +73,13 @@ In Chur wird erneut umgestiegen: Auf die RhB – ausgeschrieben Rhätische Bahn,
 
 Auch bei der RhB ist der Stand bei den BehiG-Ausbauten auf der besagten Strecke zu einem grossen Teil weit fortgeschritten, nur einzelne Bahnhöfe sind noch unangetastet, einige weitere befinden sich im Umbau. Dabei muss ich jedoch auch von meinen persönlichen Beobachtungen von anderen Ausflügen anmerken, dass der Ausbaustand abseits der Albula-Hauptstrecke längst nicht überall so fortgeschritten ist.
 
-![In diesem Bahnhof ist das Perron zu tief, um einen behindertengerechten Einstieg zu gewährleisten.](picture3.jpg)
+![](picture3.jpg "In diesem Bahnhof ist das Perron zu tief, um einen behindertengerechten Einstieg zu gewährleisten.")
 
 Ein weiteres Mal umsteigen muss ich im mondänen Ferienort St. Moritz im Oberengadin. Auf dieser Reiseetappe ist die Umsetzung des BehiG an einem ganz anderen Punkt als auf sämtlichen Etappen zuvor. Zwar ist auch in diesem Zug ein – zugegebenermassen eher kleines – Rollstuhlabteil vorhanden, der restliche Zug besteht aber aus altem Rollmaterial mit hohen und engen Einstiegen. Insgesamt scheinen aber sowohl Rollmaterial der RhB als auch Infrastruktur gepflegt und das Reisen im Kanton Graubünden wird – zusammen mit wunderschönen Strecken – zu einem wahren Erlebnis.
 
 Deutlich ist zudem erkennbar, wie die Prioritäten landauf landab grösstenteils so gesetzt werden, dass möglichst viele Menschen davon profitieren können: Grosse Knotenbahnhöfe wie Zürich, Chur, sowie Samedan und St. Moritz im Bündnerland sind seit Jahren barrierefrei benutzbar.
 
-![Im städtischen Nahverkehr ist die BehiG-Umsetzung weit fortgeschritten, wie hier beim RBS.](picture4.jpg)
+![](picture4.jpg "Im städtischen Nahverkehr ist die BehiG-Umsetzung weit fortgeschritten, wie hier beim RBS.")
 
 ### **Wie geht es nun weiter?**
 
