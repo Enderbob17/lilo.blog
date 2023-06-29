@@ -11,6 +11,8 @@ description = "2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches d
 
 {{<2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.>}}
 
+###### von Luis Tschirren und Ernesto Mellado
+
 Sie kennen dieses Gefühl bestimmt – Sie unternehmen eine Reise in der Schweiz mit dem öffentlichen Verkehr und beim Einstieg ins Transportmittel müssen Sie ungewohnt hohe Stufen überwinden. In der Schweiz gehören nicht behindertengerechte Transportmittel noch zum Alltag. Warum «noch»? Dies liegt am Behindertengleichstellungsgesetz (BehiG), die Umsetzungsfrist läuft bis zum 31.12.2023. Laut der Webseite des Bundesamts für Verkehr (BAV) sind von gesamthaft rund 1800 Bahnhöfen und Haltestellen nur deren 928 bereits dem BehiG entsprechend umgebaut. Bei 541 ist allerdings bereits bekannt, dass die Anpassungen erst nach 2023 fertiggestellt sein werden. Da grosse Bahnhöfe jedoch prioritär umgebaut werden, können voraussichtlich bis zum Ende der zwanzigjährigen BehiG-Umsetzungsfrist Ende 2023 82% aller Passagiere hindernisfrei reisen.
 
 Doch wie kommt es dazu, dass verschiedene Transportunternehmen bei der Umsetzung dieses Gesetzes dermassen im Verzug sind? Auf der Suche nach Antworten haben wir ein interessantes Gespräch mit Michael Müller, Mediensprecher des BAV, führen können.
