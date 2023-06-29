@@ -9,7 +9,7 @@ description = "2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches d
 +++
 # Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr
 
-{{<2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.>}}
+2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.
 
 ###### von Luis Tschirren und Ernesto Mellado
 
@@ -27,11 +27,11 @@ Die Umbauten der Infrastruktur sind oftmals sehr tiefgreifend – in den meisten
 
 > «Die BehiG-Umbaumassnahmen sind relativ tiefgreifende Massnahmen. Es braucht neue Bahnhofzugänge, Erhöhungen von Perrons, teilweise breitere Perrons und Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in das Geschehen eines Bahnhofes eingreifen.», sagt Herr Müller.
 
-{{<**Wen haben wir interviewt?**="Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
+**Wen haben wir interviewt?**"Michael Müller ist seit April 2019 Mediensprecher des BAV.  Er studierte Geschichte und Politikwissenschaft an der Universität Bern. Seine Karriere begann als Politologe und Historiker, später dann als Redaktor bei der Tageszeitung «Der Bund», und anschliessend als Informationsbeauftragter im Bundesamt für Strassen. 
 
-Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abteilung Gleichstellung bei Inclusion Handicap, Caroline Hess-Klein zu führen. Sie studierte Jura und hat in dieser Fakultät auch einen Doktortitel erlangt.  Inclusion Handicap setzt sich für die Sensibilisierung der Gesellschaft und die Schaffung von barrierefreien Umgebungen ein. Sie ist die Dachorganisation der Schweizer Behindertenorganisationen, oder auch «die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz», wie auf deren Website zu lesen ist. Daher setzen sie sich auch sehr stark für die Umsetzung des BehiG ein. ">}}
+Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abteilung Gleichstellung bei Inclusion Handicap, Caroline Hess-Klein zu führen. Sie studierte Jura und hat in dieser Fakultät auch einen Doktortitel erlangt.  Inclusion Handicap setzt sich für die Sensibilisierung der Gesellschaft und die Schaffung von barrierefreien Umgebungen ein. Sie ist die Dachorganisation der Schweizer Behindertenorganisationen, oder auch «die vereinte Stimme der 1.7 Millionen Menschen mit Behinderungen in der Schweiz», wie auf deren Website zu lesen ist. Daher setzen sie sich auch sehr stark für die Umsetzung des BehiG ein. "
 
-{{<**Interview mit Herr Müller vom BAV**="<Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
+**Interview mit Herr Müller vom BAV**"<Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
 
 Herr Müller: BehiG-Umbaumassnahmen sind ziemlich tiefgreifend. Es braucht neue Bahnhofzugänge, Unterführungen, Erhöhungen von Perrons, eventuell Personenaufzüge und verstärkte Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in die Substanz eines Bahnhofes eingreifen. Und weil dies so tiefgreifende und teure Baumassnahmen sind, warten die SBB oder auch die anderen Infrastrukturbetreiberinnen und Immobilienbesitzer mit diesen Umbauten, bis sie mit anderem Ausbau und Unterhaltsmassnahmen kombiniert werden können. Das ist der eine Grund. Der andere Grund ist, das muss man auch sagen, dass viele Unternehmen dem Thema lange Zeit nicht die nötige Aufmerksamkeit schenkten; andere Dinge waren ihnen dringender und vielleicht auch publikumswirksamer und darum haben sie möglicherweise hier und da die Ernsthaftigkeit oder den Termin einfach falsch eingeschätzt.
 
@@ -39,7 +39,7 @@ Herr Müller: BehiG-Umbaumassnahmen sind ziemlich tiefgreifend. Es braucht neue 
 
 Luis: Und gibt es auch bereits ein Datum, an welchem man damit rechnen kann, dass die BehiG-Umbauten alle abgeschlossen sind?
 
-Herr Müller: Nein, das gibt es nicht. Es gibt die Frist, die Ende 2023 ausläuft. Wenn die Massnahmen bis dann nicht umgesetzt werden können, müssen die Bahnen eine Ersatzlösung anbieten. In der Regel ist das eine Hilfestellung durch das Personal*.*">}}
+Herr Müller: Nein, das gibt es nicht. Es gibt die Frist, die Ende 2023 ausläuft. Wenn die Massnahmen bis dann nicht umgesetzt werden können, müssen die Bahnen eine Ersatzlösung anbieten. In der Regel ist das eine Hilfestellung durch das Personal*.*"
 
 Die Schweiz ist bekannt für ihren herausragenden öffentlichen Verkehr. Dazu gehört auch, dass sich die Infrastruktur stets in einem guten Zustand befindet. Um nun bei den barrierefreien Ausbauten nicht unnötiges Geld auszugeben, wird ein Bahnhof beispielsweise erst dann saniert, wenn er sich in einem Zustand befindet, wo eine Sanierung nicht mehr aufschiebbar ist. Zudem erfordert die Barrierefreiheit je nach Projekt mehr oder weniger tiefgreifende Umbauten: Manchmal reicht ein neuer Bahnsteig, manchmal müssen zudem noch neue Perronzugänge (beispielsweise Unterführungen oder Passerellen) erbaut werden. Und je grösser ein Umbau ist, desto länger dauert die Planung.
 
