@@ -37,7 +37,7 @@ Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abtei
 
 {{</box>}}
 
-{{<box title="**Interview mit Herr Müller vom BAV**">}}
+{{<box title="Interview mit Herr Müller vom BAV">}}
 
 Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
 
