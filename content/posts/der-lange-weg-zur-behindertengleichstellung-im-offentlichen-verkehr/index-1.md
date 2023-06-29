@@ -7,8 +7,6 @@ tags = ["Deutsch", "deutsch", "Reportage", "M25c", "BehiG", "Behindertengleichst
 image = "picture1.jpg"
 description = "2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen. "
 +++
-# Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr
-
 2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen.
 
 ###### von Luis Tschirren und Ernesto Mellado
