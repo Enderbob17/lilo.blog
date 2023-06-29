@@ -37,7 +37,9 @@ Zudem hatten wir auch die Möglichkeit, ein Interview mit der Leiterin der Abtei
 
 {{</box>}}
 
-**Interview mit Herr Müller vom BAV**"<Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
+{{<box title="**Interview mit Herr Müller vom BAV**">}}
+
+Luis: Laut der Webseite von der SBB sind erst 434 von 764 Bahnhöfen BehiG-konform. Warum ist diese Zahl so tief, obwohl die Umsetzungsfrist 20 Jahre gedauert hat?
 
 Herr Müller: BehiG-Umbaumassnahmen sind ziemlich tiefgreifend. Es braucht neue Bahnhofzugänge, Unterführungen, Erhöhungen von Perrons, eventuell Personenaufzüge und verstärkte Sicherheitsmassnahmen. All das sind Baumassnahmen, welche tief in die Substanz eines Bahnhofes eingreifen. Und weil dies so tiefgreifende und teure Baumassnahmen sind, warten die SBB oder auch die anderen Infrastrukturbetreiberinnen und Immobilienbesitzer mit diesen Umbauten, bis sie mit anderem Ausbau und Unterhaltsmassnahmen kombiniert werden können. Das ist der eine Grund. Der andere Grund ist, das muss man auch sagen, dass viele Unternehmen dem Thema lange Zeit nicht die nötige Aufmerksamkeit schenkten; andere Dinge waren ihnen dringender und vielleicht auch publikumswirksamer und darum haben sie möglicherweise hier und da die Ernsthaftigkeit oder den Termin einfach falsch eingeschätzt.
 
@@ -46,6 +48,8 @@ Herr Müller: BehiG-Umbaumassnahmen sind ziemlich tiefgreifend. Es braucht neue 
 Luis: Und gibt es auch bereits ein Datum, an welchem man damit rechnen kann, dass die BehiG-Umbauten alle abgeschlossen sind?
 
 Herr Müller: Nein, das gibt es nicht. Es gibt die Frist, die Ende 2023 ausläuft. Wenn die Massnahmen bis dann nicht umgesetzt werden können, müssen die Bahnen eine Ersatzlösung anbieten. In der Regel ist das eine Hilfestellung durch das Personal*.*"
+
+{{</box>}}
 
 Die Schweiz ist bekannt für ihren herausragenden öffentlichen Verkehr. Dazu gehört auch, dass sich die Infrastruktur stets in einem guten Zustand befindet. Um nun bei den barrierefreien Ausbauten nicht unnötiges Geld auszugeben, wird ein Bahnhof beispielsweise erst dann saniert, wenn er sich in einem Zustand befindet, wo eine Sanierung nicht mehr aufschiebbar ist. Zudem erfordert die Barrierefreiheit je nach Projekt mehr oder weniger tiefgreifende Umbauten: Manchmal reicht ein neuer Bahnsteig, manchmal müssen zudem noch neue Perronzugänge (beispielsweise Unterführungen oder Passerellen) erbaut werden. Und je grösser ein Umbau ist, desto länger dauert die Planung.
 
