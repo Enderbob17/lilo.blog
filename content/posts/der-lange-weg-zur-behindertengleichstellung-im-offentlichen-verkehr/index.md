@@ -3,7 +3,7 @@ title = "Der lange Weg zur Behindertengleichstellung im öffentlichen Verkehr"
 date = "2023-06-29"
 draft = false
 pinned = true
-tags = ["Deutsch", "deutsch", "Reportage", "M25c", "BehiG", "Behindertengleichstellungsgesetz", "Zug", "BAV", "ÖV", ""]
+tags = ["Deutsch", "deutsch", "Reportage", "M25c", "BehiG", "Behindertengleichstellungsgesetz", "reportage"]
 image = "picture1.jpg"
 description = "2004 wurde in der Schweiz ein neues Gesetz beschlossen, welches das alltägliche Leben für Menschen mit Beeinträchtigung erheblich erleichtern sollte. Doch bei dessen Umsetzung hapert es noch. Warum ist das so? Dieser Frage haben wir uns in dieser Reportage angenommen. "
 +++
