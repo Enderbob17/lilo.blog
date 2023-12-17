@@ -14,7 +14,7 @@ Medienlandschaften sind durchsetzt von Sensationsgeschichten und verdrehten Wahr
 
 Kritisches Denken ist zweifellos eine Schlüsselfähigkeit im 21. Jahrhundert. In diesem Blog werde ich sowohl den theoretischen Hintergrund als auch die praktische Anwendung des kritischen Denkens beleuchten, um zu verdeutlichen, warum diese Fähigkeit in der Ära der Digitalisierung, künstlichen Intelligenz und manipulativen Medienkonzernen von entscheidender Bedeutung ist.
 
-###  **Was ist kritisches Denken?** 
+### **Was ist kritisches Denken?**
 
 Als allererstes müssen wir klären, was genau unter kritischem Denken zu verstehen ist. Kritisches Denken bedeutet in erster Linie, logische Fehler zu erkennen und zu vermeiden. Das impliziert ein Bewusstsein für die Entstehung von logischen Fehlschlüssen und kognitiven Verzerrungen
 
@@ -28,7 +28,7 @@ Kognitive Verzerrungen sind systematische Fehler in der Informationsverarbeitung
 
 Ein weiterer zentraler Aspekt des kritischen Denkens ist das Hinterfragen von Wahrheitsbehauptungen. Oftmals erfordert dies umfassendes Fachwissen, um eine Aussage zu überprüfen. Daher ist es entscheidend, die Vertrauenswürdigkeit von Informationsquellen zu hinterfragen und abzuwägen, wie viel Aufwand man für die Überprüfung investieren möchte.
 
-###  **Die Notwendigkeit des kritischen Denkens im Medienzeitalter** 
+### **Die Notwendigkeit des kritischen Denkens im Medienzeitalter**
 
 Im Zeitalter von manipulativen Medien ist kritisches Denken bei der Informationsbewertung von entscheidender Bedeutung. Nachrichtenagenturen neigen dazu, auf sensationelle Geschichten zu setzen und die Wahrheit zu verdrehen, um Aufmerksamkeit zu erregen. Daher ist es von grösster Wichtigkeit, die Vertrauenswürdigkeit von Medienquellen zu prüfen.
 
@@ -36,12 +36,14 @@ Um möglichst zuverlässige Informationen zu erhalten, ist es entscheidend, die 
 
 Beispielsweise beim Recht auf Abtreibung in den USA wurde kürzlich eine Studie veröffentlicht, die untersuchte, wie viele Abtreibungen durch die Aufhebung des Roe-v.-Wade-Gesetzes verhindert wurden. Zahlreiche Nachrichtenagenturen haben zu dieser Studie Artikel verfasst. Dabei behaupteten rechte Medien, dass durch diese Gesetzesänderung mehrere tausend Babys gerettet wurden. Im Gegensatz dazu argumentierten linke Medien, dass durch dieselbe Massnahme tausende ungewollte Kinder geboren wurden. Diese Differenz verdeutlicht, wie sehr sich eine Tatsache verändern kann, wenn man sie aus unterschiedlichen politischen Perspektiven betrachtet.
 
-###  **KI und Manipulation: Die wachsende Gefahr visueller Desinformation** 
+### **KI und Manipulation: Die wachsende Gefahr visueller Desinformation**
 
 Im Zeitalter von manipulativen Medien ist kritisches Denken bei der Informationsbewertung von entscheidender Bedeutung. Nachrichtenagenturen neigen dazu, auf sensationelle Geschichten zu setzen und die Wahrheit zu verdrehen, um Aufmerksamkeit zu erregen. Daher ist es von grösster Wichtigkeit, die Vertrauenswürdigkeit von Medienquellen zu prüfen. Um möglichst zuverlässige Informationen zu erhalten, ist es entscheidend, die Vertrauenswürdigkeit der Quelle zu überprüfen. Hierbei spielen verschiedene Aspekte eine Rolle, wie die Grösse und Reichweite der Quelle, mögliche Interessenvertretungen oder Anreize, Informationen verzerrt darzustellen. Bei grossen, etablierten Medien wie BBC, SRF, Reuters oder anderen bedeutenden Nachrichtenagenturen kann man grundsätzlich von hoher Vertrauenswürdigkeit ausgehen. Dennoch ist es wichtig, auch diesen Quellen kritisch zu begegnen, da sie bestimmte politische Vorlieben haben können. Beispielsweise beim Recht auf Abtreibung in den USA wurde kürzlich eine Studie veröffentlicht, die untersuchte, wie viele Abtreibungen durch die Aufhebung des Roe-v.-Wade-Gesetzes verhindert wurden. Zahlreiche Nachrichtenagenturen haben zu dieser Studie Artikel verfasst. Dabei behaupteten rechte Medien, dass durch diese Gesetzesänderung mehrere tausend Babys gerettet wurden. Im Gegensatz dazu argumentierten linke Medien, dass durch dieselbe Massnahme tausende ungewollte Kinder geboren wurden. Diese Differenz verdeutlicht, wie sehr sich eine Tatsache verändern kann, wenn man sie aus unterschiedlichen politischen Perspektiven betrachtet.
 
-![Quelle: Deutsche Welle (https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744)](67367434_906.jpg)
 
-###  **Fazit** 
+
+![Quelle: Deutsche Welle (https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744)](67367434_906.jpg "KI-Generiertes Bild, veröffentlicht von Hamas.")
+
+### **Fazit**
 
 In dieser zunehmend digitalisierten Welt, in der Informationen leicht zugänglich sind, ist kritisches Denken entscheidend, um durch den Nebel von politischen Agenden und Falschinformationen hindurchblicken. Es erfordert nicht nur den Vergleich von Quellen und die Recherche von Hintergrundinformationen, sondern auch eine kritische Betrachtung jeder Information. Nur so können wir uns verantwortungsbewusst informieren und fundierte Meinungen bilden.
