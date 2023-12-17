@@ -1,7 +1,7 @@
 +++
 title = "Kritisches Denken in der digitalen Ära"
 date = "2023-12-17"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Medienkompetenz", "Kritisches_Denken"]
 image = ""
