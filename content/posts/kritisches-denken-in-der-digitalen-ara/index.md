@@ -4,8 +4,9 @@ date = "2023-12-17"
 draft = false
 pinned = false
 tags = ["Deutsch", "Medienkompetenz", "Kritisches_Denken"]
-image = ""
+image = "desinforamtion-bild.webp"
 description = "Kritisches Denken ist zweifellos eine Schlüsselfähigkeit im 21. Jahrhundert. In diesem Blog werde ich sowohl den theoretischen Hintergrund als auch die praktische Anwendung des kritischen Denkens beleuchten, um zu verdeutlichen, warum diese Fähigkeit in der Ära der Digitalisierung, künstlichen Intelligenz und manipulativen Medienkonzernen von entscheidender Bedeutung ist."
+footnotes = "Titelbild Quelle: https://www.shutterstock.com/de/search/desinformation"
 +++
 Kritisches Denken ist zweifellos eine Schlüsselfähigkeit im 21. Jahrhundert. In diesem Blog werde ich sowohl den theoretischen Hintergrund als auch die praktische Anwendung des kritischen Denkens beleuchten, um zu verdeutlichen, warum diese Fähigkeit in der Ära der Digitalisierung, künstlichen Intelligenz und manipulativen Medienkonzernen von entscheidender Bedeutung ist.
 
