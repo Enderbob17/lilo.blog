@@ -12,4 +12,4 @@ Les informations cruciales à comprendre dans ce livre sont que le Rwanda a ét�
 
 Le livre relate une histoire du génocide au Rwanda, mettant en avant des jeunes survivants du génocide en tant que personnages principaux. Une figure importante est le docteur Joseph Karakezi, faisant partie de l'Interahamwe et jouant un rôle de chef.
 
-Micro-analyse : Ce texte est en français, car le français est la langue parlée au Rwanda. Le génocide résulte du conflit entre les deux ethnies, les Tutsi et les Hutu. Chaque chapitre est narré par une personne différente, ce qui peut être déconcertant au début mais nécessite une adaptation.
+Ce texte est en français, car le français est la langue parlée au Rwanda. Le génocide résulte du conflit entre les deux ethnies, les Tutsi et les Hutu. Chaque chapitre est narré par une personne différente, ce qui peut être déconcertant au début mais nécessite une adaptation.
