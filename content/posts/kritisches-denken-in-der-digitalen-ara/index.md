@@ -34,7 +34,7 @@ Beispielsweise beim Recht auf Abtreibung in den USA wurde kürzlich eine Studie 
 
 Bilder beeinflussen Konsumenten stark und können irreführend sein, besonders in sozialen Medien, wo emotionale Bilder schnell verbreitet werden. Dies birgt die Gefahr der schnellen Verbreitung von Falschinformationen. Ein aktuelles Beispiel ist der Israel-Hamas-Konflikt, bei dem beide Seiten Bilder nutzen, um die Brutalität des Gegners zu zeigen und internationale Unterstützung zu gewinnen. Die Hamas greift dabei vermehrt auf manipulierte, oft KI-generierte Bilder zurück, die besonders bei jungen Menschen starke Reaktionen auslösen und zu Protesten sowie antisemitischer Gewalt führen. Ein analysiertes Bild der Deutschen Welle zeigt, dass solche Bilder trotz erkennbarer Anzeichen von Manipulation immer realistischer werden. Daher ist es entscheidend, nie automatisch von der Wahrhaftigkeit eines Bildes auszugehen.
 
-![Quelle: Deutsche Welle (https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744)](67367434_906.jpg "KI-Generiertes Bild, veröffentlicht von Hamas.")
+![Quelle: Deutsche Welle (https://www.dw.com/en/fact-check-ai-fakes-in-israels-war-against-hamas/a-67367744)   (17.12.2023)](67367434_906.jpg "KI-Generiertes Bild, veröffentlicht von Hamas.")
 
 ### **Fazit**
 
