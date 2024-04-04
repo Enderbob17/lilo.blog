@@ -30,7 +30,7 @@ Im Zeitalter von manipulativen Medien ist kritisches Denken bei der Informations
 
 Beispielsweise beim Recht auf Abtreibung in den USA wurde kürzlich eine Studie veröffentlicht, die untersuchte, wie viele Abtreibungen durch die Aufhebung des Roe-v.-Wade-Gesetzes verhindert wurden. Zahlreiche Nachrichtenagenturen haben zu dieser Studie Artikel verfasst. Dabei behaupteten rechte Medien, dass durch diese Gesetzesänderung mehrere tausend Babys gerettet wurden. Im Gegensatz dazu argumentierten linke Medien, dass durch dieselbe Massnahme tausende ungewollte Kinder geboren wurden. Diese Differenz verdeutlicht, wie sehr sich eine Tatsache verändern kann, wenn man sie aus unterschiedlichen politischen Perspektiven betrachtet.
 
-### **KI und Manipulation: Die wachsende Gefahr visueller Desinformation**
+### **Die wachsende Gefahr durch KI-generierte Falschbilder**
 
 Bilder beeinflussen Konsumenten stark und können irreführend sein, besonders in sozialen Medien, wo emotionale Bilder schnell verbreitet werden. Dies birgt die Gefahr der schnellen Verbreitung von Falschinformationen. Ein aktuelles Beispiel ist der Israel-Hamas-Konflikt, bei dem beide Seiten Bilder nutzen, um die Brutalität des Gegners zu zeigen und internationale Unterstützung zu gewinnen. Die Hamas greift dabei vermehrt auf manipulierte, oft KI-generierte Bilder zurück, die besonders bei jungen Menschen starke Reaktionen auslösen und zu Protesten sowie antisemitischer Gewalt führen. Ein analysiertes Bild der Deutschen Welle zeigt, dass solche Bilder trotz erkennbarer Anzeichen von Manipulation immer realistischer werden. Daher ist es entscheidend, nie automatisch von der Wahrhaftigkeit eines Bildes auszugehen.
 
