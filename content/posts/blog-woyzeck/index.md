@@ -1,7 +1,7 @@
 +++
 title = "Blog Woyzeck"
 date = "2024-04-21"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 image = "https://images.thalia.media/-/BF2000-2000/682b524ca2ae448881c6bc556733bba0/woyzeck-taschenbuch-georg-buechner.jpeg"
