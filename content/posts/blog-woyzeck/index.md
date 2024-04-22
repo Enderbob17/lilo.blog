@@ -1,5 +1,5 @@
 +++
-title = "Woyzeck: "
+title = "Woyzeck: Ein von gesellschaftlichen Umständen getriebener Mörder"
 date = "2024-04-21"
 draft = false
 pinned = false
