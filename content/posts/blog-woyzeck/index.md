@@ -6,6 +6,7 @@ pinned = false
 tags = ["Deutsch", "Woyzeck"]
 image = "unnamed.jpg"
 description = "In diesem Blog wird das Drama „Woyzeck” von Georg Büchner behandelt, wobei ein besonderes Augenmerk auf der darin vorkommenden Mord liegt."
+footnotes = "Quelle Titelbild: <http://buechnerportal.de/dokumente/personen/johann-christian-woyzeck>"
 +++
 Der Name «Woyzeck» ist in der deutschen Literaturgeschichte sehr bekannt. Er bezeichnet eines der bekanntesten Werke Georg Büchners. Zudem ist es der Name eines Mannes, der am 2. Juni 1821 eine Frau, seine Geliebte, erstochen hat. Um genau diesen Fall geht es in Georg Büchners Werk. Der Fall des historischen Woyzecks wurde von Psychologen sehr schnell als ein durch Eifersucht motivierter Mord abgestempelt und anschliessend mit der Todesstrafe bestraft. Georg Büchner jedoch vertrat eine andere Meinung. Er argumentierte, dass Woyzeck zum einen durch seine psychische Krankheit, die wir heute als Psychose bezeichnen würden, und seine sozioökonomischen Verhältnisse zu der Affekthandlung getrieben wurde. Eine Affekthandlung, in diesem Fall der Mord an Marie, ist eine Handlung, die unter dem Einfluss von starken Emotionen wie Wut, Angst oder Verzweiflung erfolgt, ohne dass sie vorher rational überlegt oder geplant wurde. In seinem Drama „Woyzeck” widmete sich Büchner dieser Idee und inszenierte Woyzeck als einen perspektivlosen und an psychischen Krankheiten leidenden Soldaten, der mit seiner Geliebten, der Marie, ein uneheliches Kind hat.
 
