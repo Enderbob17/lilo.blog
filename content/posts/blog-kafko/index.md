@@ -1,5 +1,5 @@
 +++
-title = "Blog Kafkö"
+title = "Kafkas Verwandlung als Vorbote der historischen Schrecken des 20. Jahrhunderts"
 date = "2024-05-24"
 draft = true
 pinned = false
@@ -20,11 +20,13 @@ Im Rahmen des Unterrichts wurde ausführlich besprochen, inwiefern „Die Verwan
 Ein weiteres Thema, das in „Die Verwandlung“ behandelt wird, ist der Kontrollverlust über die eigene Situation. Gregor wurde ohne Vorwarnung oder Entscheidungsmöglichkeit in ein Ungeziefer verwandelt. Er wollte dies nicht und wusste auch nicht, warum er verwandelt wurde. Kafka empfand sich laut Reiner Stach, einem der renommiertesten Kafka-Biographen, häufig als Passagier auf einem Tanker, ohne zu wissen, wer das Steuer in der Hand hielt. Dieses Gefühl korrespondiert mit der Zeit, in der Kafka lebte, denn als „Die Verwandlung“ verfasst wurde, war der Erste Weltkrieg bereits im Gange. Der Erste Weltkrieg brachte in Europa ein beispielloses Mass an Leid und Tod, aber eigentlich wollte niemand diesen Krieg, und doch umfasste der Konflikt vier Jahre und kostete 16 Millionen Menschenleben. Kafka selbst diente nicht an der Front, arbeitete jedoch in einem Rekrutierungsbüro und musste zusehen, wie junge Männer zu ihrem Tod geschickt wurden.
 
 
-Dieses Gefühl der Kontrolllosigkeit über die geopolitische Lage ist nach wie vor ein sehr relevantes Thema und eines, das viele Menschen plagt. Die Liste der Konflikte, die derzeit weltweit ausgetragen werden, ist lang. Sie umfasst den langwierigen Angriffskrieg Russlands auf die Ukraine, den Israel-Hamas-Konflikt, den Bürgerkrieg im Sudan und in Myanmar sowie die Polarisierung der Gesellschaft. Es scheint, als stünde jemand hinter all diesem Chaos. Populistische Parteien nutzen diese Strategie, indem sie eine Figur oder Gruppe, oft „die da oben“, für Probleme verantwortlich machen. Auch die NSDAP bediente sich dieser Taktik, indem sie in ihrem antisemitischen Weltbild die Juden zum Sündenbock für den Ersten Weltkrieg und die Weltwirtschaftskrise machte. Da Menschen das Gefühl von Ungewissheit sehr ungern haben, versuchen sie, die Lage selbst logisch zu erklären. Dies resultiert häufig in der Suche nach einem Sündenbock, wie sie zur Zeit der NSDAP in Deutschland zu beobachten war. Die dahinterliegenden Mechanismen haben sich im Verlauf der Zeit nur wenig verändert. Auch wenn die Intensität abgenommen hat, werden Feindbilder nach wie vor sehr aktiv verwendet. Die Feindgruppe unterliegt einem beständigen Wandel, sei es Kapitalisten oder sogenannte „Nazis“ bei Linken oder Sozialisten oder Ausländer bei Rechten. Der dahinterliegende Sinn ist jedoch bei allen Gruppen derselbe.
+Dieses Gefühl der Kontrolllosigkeit über die geopolitische Lage ist nach wie vor ein sehr relevantes Thema und eines, das viele Menschen plagt. Die Liste der Konflikte, die derzeit weltweit ausgetragen werden, ist lang. Sie umfasst den langwierigen Angriffskrieg Russlands auf die Ukraine, den Israel-Hamas-Konflikt, den Bürgerkrieg im Sudan und in Myanmar sowie die Polarisierung der Gesellschaft. Es scheint, als stünde jemand hinter all diesem Chaos. Populistische Parteien nutzen diese Strategie, indem sie eine Figur oder Gruppe, oft „die da oben“, für Probleme verantwortlich machen. Auch die NSDAP bediente sich dieser Taktik, indem sie in ihrem antisemitischen Weltbild die Juden zum Sündenbock für den Ersten Weltkrieg und die Weltwirtschaftskrise machte. Da Menschen das Gefühl von Ungewissheit sehr ungern haben, versuchen sie, die Lage selbst logisch zu erklären. Dies resultiert häufig in der Suche nach einem Sündenbock, wie sie zur Zeit der NSDAP in Deutschland zu beobachten war. Die dahinterliegenden Mechanismen haben sich im Verlauf der Zeit nur wenig verändert. Auch wenn die Intensität abgenommen hat, werden Feindbilder nach wie vor sehr aktiv verwendet. Die Feindgruppe unterliegt einem ständigen Wandel, sei es Kapitalisten oder sogenannte „Nazis“ bei Linken oder Sozialisten oder Ausländer bei Rechten. Der dahinterliegende Sinn ist jedoch bei allen Gruppen derselbe.
 
 
 
+### **Fazit**
 
+In der Tat kann festgehalten werden, dass Franz Kafka zu Recht als der bekannteste deutsche Autor des 20. Jahrhunderts gilt. Seine Fähigkeit, das Schicksal Europas und insbesondere das der europäischen Juden vorherzusehen, ist außerordentlich.
 
 {{<box title="Motivation und Schreibprozess">}}
 
