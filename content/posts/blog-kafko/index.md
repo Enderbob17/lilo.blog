@@ -4,29 +4,24 @@ date = "2024-05-24"
 draft = true
 pinned = false
 tags = ["Deutsch", "Kafka"]
+description = "Die Erzählung \"Die Verwandlung\" von Franz Kafka thematisiert gesellschaftliche Ausgrenzung, den Verlust von Kontrolle über das eigene Leben und warnt vor kommenden geopolitischen Spannungen, wobei Parallelen zur Judenverfolgung unter dem NS-Regime zu erkennen sind."
+footnotes = "Quelle Titelbild: <https://www.cashkurs.com/beitrag/die-ratlosigkeit-der-notenbanken-in-einer-zeit-politischer-orientierungslosigkeit/>"
 +++
 Die Erzählung „Die Verwandlung“ von Franz Kafka gilt als eines der bedeutendsten Werke der deutschsprachigen Literatur des 20. Jahrhunderts. Im Zentrum der Handlung steht der Protagonist Gregor Samsa, der plötzlich in ein Ungeziefer verwandelt wird und mit den Konsequenzen dieser Metamorphose konfrontiert wird. Dazu zählen insbesondere der Ausschluss aus der Familie und die Entfremdung vom Menschsein. „Die Verwandlung“ wurde von Franz Kafka im Jahr 1915 verfasst und thematisiert unter anderem seine persönliche Familiensituation, insbesondere die Beziehung zu seinem Vater, sowie die zeitgenössische politische und gesellschaftliche Situation. In diesem Blog wird detailliert aufgezeigt, welche Parallelen zwischen „Die Verwandlung“ und der Verfolgung der Juden durch das NS-Regime bestehen. Anschliessend erfolgt eine Erläuterung der Aussage des Biografen Reiner Stach zur Orientierungslosigkeit in der damaligen wie auch heutigen geopolitischen Lage.
 
 ### **Unterrichtsstoff**
 
-
-
 Im Rahmen des Unterrichts wurde ausführlich besprochen, inwiefern „Die Verwandlung“ eine Kritik an der zeitgenössischen Gesellschaft und eine Warnung vor den kommenden geopolitischen Spannungen darstellt. Heute erkennt man, dass Kafka ein aussergewöhnliches Gespür für gesellschaftliche Spannungen hatte und somit fast als gesellschaftlicher Seismograph gesehen werden kann. Während des Unterrichts haben wir unter anderem gelernt, dass „Die Verwandlung“ die Judenverfolgung unter dem Regime der NSDAP (Nationalsozialisten) voraussagt. Wie Gregor Samsa wurden Juden zuerst als Unmenschen angesehen, dann weitestgehend ausgeschlossen, durch gewaltvolle Aktionen wie die Kristallnacht eingeschüchtert und letztlich im Holocaust von Nachbarn und sogar ehemaligen Freunden auf brutalste Weise ermordet. Dieser allmähliche Aufbau von Diskriminierung und Gewalt wird auch sehr deutlich in „Die Verwandlung“ gezeigt, denn nach Gregors Verwandlung wird er immer mehr von seiner Familie ausgegrenzt und anschliessend sogar körperlich von seinem eigenen Vater angegriffen.
 
 ### **Orientierungslosigkeit**
 
-
-
 Ein weiteres Thema, das in „Die Verwandlung“ behandelt wird, ist der Kontrollverlust über die eigene Situation. Gregor wurde ohne Vorwarnung oder Entscheidungsmöglichkeit in ein Ungeziefer verwandelt. Er wollte dies nicht und wusste auch nicht, warum er verwandelt wurde. Kafka empfand sich laut Reiner Stach, einem der renommiertesten Kafka-Biographen, häufig als Passagier auf einem Tanker, ohne zu wissen, wer das Steuer in der Hand hielt. Dieses Gefühl korrespondiert mit der Zeit, in der Kafka lebte, denn als „Die Verwandlung“ verfasst wurde, war der Erste Weltkrieg bereits im Gange. Der Erste Weltkrieg brachte in Europa ein beispielloses Mass an Leid und Tod, aber eigentlich wollte niemand diesen Krieg, und doch umfasste der Konflikt vier Jahre und kostete 16 Millionen Menschenleben. Kafka selbst diente nicht an der Front, arbeitete jedoch in einem Rekrutierungsbüro und musste zusehen, wie junge Männer zu ihrem Tod geschickt wurden.
-
 
 Dieses Gefühl der Kontrolllosigkeit über die geopolitische Lage ist nach wie vor ein sehr relevantes Thema und eines, das viele Menschen plagt. Die Liste der Konflikte, die derzeit weltweit ausgetragen werden, ist lang. Sie umfasst den langwierigen Angriffskrieg Russlands auf die Ukraine, den Israel-Hamas-Konflikt, den Bürgerkrieg im Sudan und in Myanmar sowie die Polarisierung der Gesellschaft. Es scheint, als stünde jemand hinter all diesem Chaos. Populistische Parteien nutzen diese Strategie, indem sie eine Figur oder Gruppe, oft „die da oben“, für Probleme verantwortlich machen. Auch die NSDAP bediente sich dieser Taktik, indem sie in ihrem antisemitischen Weltbild die Juden zum Sündenbock für den Ersten Weltkrieg und die Weltwirtschaftskrise machte. Da Menschen das Gefühl von Ungewissheit sehr ungern haben, versuchen sie, die Lage selbst logisch zu erklären. Dies resultiert häufig in der Suche nach einem Sündenbock, wie sie zur Zeit der NSDAP in Deutschland zu beobachten war. Die dahinterliegenden Mechanismen haben sich im Verlauf der Zeit nur wenig verändert. Auch wenn die Intensität abgenommen hat, werden Feindbilder nach wie vor sehr aktiv verwendet. Die Feindgruppe unterliegt einem ständigen Wandel, sei es Kapitalisten oder sogenannte „Nazis“ bei Linken oder Sozialisten oder Ausländer bei Rechten. Der dahinterliegende Sinn ist jedoch bei allen Gruppen derselbe.
 
-
-
 ### **Fazit**
 
-In der Tat kann festgehalten werden, dass Franz Kafka zu Recht als der bekannteste deutsche Autor des 20. Jahrhunderts gilt. Seine Fähigkeit, das Schicksal Europas und insbesondere das der europäischen Juden vorherzusehen, ist außerordentlich.
+In der Tat kann festgehalten werden, dass Franz Kafka zu Recht als der bekannteste deutsche Autor des 20. Jahrhunderts gilt. Seine Fähigkeit, das Schicksal Europas und insbesondere das der europäischen Juden vorherzusehen, ist ausserordentlich.
 
 {{<box title="Motivation und Schreibprozess">}}
 
