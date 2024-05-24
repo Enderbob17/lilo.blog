@@ -4,6 +4,7 @@ date = "2024-05-24"
 draft = false
 pinned = false
 tags = ["Deutsch", "Kafka"]
+image = "ratlosigkeit_brian_a_jackson_shutterstock.jpg"
 description = "Die Erzählung \"Die Verwandlung\" von Franz Kafka thematisiert gesellschaftliche Ausgrenzung, den Verlust von Kontrolle über das eigene Leben und warnt vor kommenden geopolitischen Spannungen, wobei Parallelen zur Judenverfolgung unter dem NS-Regime zu erkennen sind."
 footnotes = "Quelle Titelbild: <https://www.cashkurs.com/beitrag/die-ratlosigkeit-der-notenbanken-in-einer-zeit-politischer-orientierungslosigkeit/>"
 +++
