@@ -1,7 +1,7 @@
 +++
 title = "Kafkas Verwandlung als Vorbote der historischen Schrecken des 20. Jahrhunderts"
 date = "2024-05-24"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Kafka"]
 description = "Die Erzählung \"Die Verwandlung\" von Franz Kafka thematisiert gesellschaftliche Ausgrenzung, den Verlust von Kontrolle über das eigene Leben und warnt vor kommenden geopolitischen Spannungen, wobei Parallelen zur Judenverfolgung unter dem NS-Regime zu erkennen sind."
