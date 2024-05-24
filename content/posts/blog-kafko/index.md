@@ -3,7 +3,7 @@ title = "Blog Kafkö"
 date = "2024-05-24"
 draft = true
 pinned = false
-tags = ["#deutsch"]
+tags = ["Deutsch", "Kafka"]
 +++
 Die Erzählung „Die Verwandlung“ von Franz Kafka gilt als eines der bedeutendsten Werke der deutschsprachigen Literatur des 20. Jahrhunderts. Im Zentrum der Handlung steht der Protagonist Gregor Samsa, der plötzlich in ein Ungeziefer verwandelt wird und mit den Konsequenzen dieser Metamorphose konfrontiert wird. Dazu zählen insbesondere der Ausschluss aus der Familie und die Entfremdung vom Menschsein. „Die Verwandlung“ wurde von Franz Kafka im Jahr 1915 verfasst und thematisiert unter anderem seine persönliche Familiensituation, insbesondere die Beziehung zu seinem Vater, sowie die zeitgenössische politische und gesellschaftliche Situation. In diesem Blog wird detailliert aufgezeigt, welche Parallelen zwischen „Die Verwandlung“ und der Verfolgung der Juden durch das NS-Regime bestehen. Anschliessend erfolgt eine Erläuterung der Aussage des Biografen Reiner Stach zur Orientierungslosigkeit in der damaligen wie auch heutigen geopolitischen Lage.
 
