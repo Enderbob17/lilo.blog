@@ -1,10 +1,11 @@
 +++
-title = "Blog Nathan der Weisse "
+title = "Lessings Vision einer vereinten Familie und wie sie heute durch Politik zerbricht"
 date = "2024-10-28"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Nathan_der_Weise"]
 image = "gettyimages-707437269_slide-9aa74645f47e1a0ac03324eabe733645e867d1ed-s800-c85.jpg"
+description = "Im Drama Nathan der Weise von Lessing geht es um Toleranz und familiären Zusammenhalt jenseits biologischer Bindungen. Werk fordert Menschlichkeit und kritisiert Intoleranz, die bis heute relevant bleibt, besonders angesichts politischer Polarisierung."
 footnotes = "Quellen: **NYT Artikel**: https://www.nytimes.com/2022/10/18/us/politics/political-division-friends-family.html (28/10/2024); **Buch von Ezra Klein**: https://www.orellfuessli.ch/shop/home/artikeldetails/A1059058088 (28/10/2024); **Titelbild**: https://www.houstonpublicmedia.org/articles/news/2017/10/18/243336/do-men-have-it-easier-your-politics-might-determine-how-you-answer/ (28/10/2024)"
 +++
 Im Deutschunterricht haben wir das Drama *Nathan der Weise*, geschrieben im Jahr 1779 von Gotthold Ephraim Lessing, gelesen. Der Text handelt von dem jüdischen Mann Nathan, seiner Adoptivtochter Recha, deren Erzieherin, einem Tempelherrn, der Recha aus einem Feuer gerettet hat, und von Saladin, dem Herrscher in Jerusalem zur Zeit des dritten Kreuzzuges, wo das Stück spielt. Am Ende des Dramas stellt sich heraus, dass Recha und der Tempelherr Geschwister sind und Saladin ihr Onkel ist. Lessing wollte mit dem Stück seine aufklärerischen Ansichten teilen und Toleranz gegenüber verschiedenen Religionen fördern. Obwohl Nathan am Ende der Einzige in der Grossfamilie ist, der nicht blutsverwandt ist, nehmen sie ihn herzlich in ihre Familie auf. Dies zeigt Saladins aussergewöhnliche Toleranz, da er den Zusammenhalt der Familie über religiöse Differenzen stellt. Dieses Verhalten hat mich überrascht, da ich erwartet hätte, dass Nathan aus der Familie ausgegrenzt würde. Obwohl das Drama vor fast 250 Jahren geschrieben wurde, ist es immer noch aktuell, da es der heutigen Gesellschaft oft an Toleranz fehlt – sogar innerhalb der Familie.
